@@ -1,0 +1,18 @@
+{
+  "rifle": {
+    "name": "rifle",
+    "validTargets": [ "land", "air" ],
+    "damage": 1,
+    "accuracity": 85,
+    "shotsPerFire": 5,
+    "slotSpace": 2
+  },
+  "pistol": {
+    "name": "pistol",
+    "validTargets": [ "land", "air" ],
+    "damage": 1,
+    "accuracity": 75,
+    "shotsPerFire": 2,
+    "slotSpace": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "AlphaTeam": {
+    "name": "Alpha Team",
+    "unitClass": "infantry",
+    "weapons": [ "pistol", "rifle" ],
+    "isAlive": true
+  },
+  "BravoTeam": {
+    "name": "Bravo Team",
+    "unitClass": "infantry",
+    "weapons": [ "pistol", "rifle" ],
+    "isAlive": true
+  }
+}

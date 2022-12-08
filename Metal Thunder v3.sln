@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metal Thunder v3", "Metal Thunder v3.csproj", "{4378FF54-1892-4D23-87D3-76BF965CD96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4378FF54-1892-4D23-87D3-76BF965CD96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4378FF54-1892-4D23-87D3-76BF965CD96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4378FF54-1892-4D23-87D3-76BF965CD96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4378FF54-1892-4D23-87D3-76BF965CD96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EED9F1-40BF-40A3-9A32-95F9BEAD8325}
+	EndGlobalSection
+EndGlobal

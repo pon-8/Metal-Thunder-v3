@@ -1,0 +1,9 @@
+{
+  "infantry": {
+    "name": "infantry",
+    "terrain": "land",
+    "hp": 100,
+    "armor": 1,
+    "weaponSlots": 3
+  }
+}
